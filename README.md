@@ -5,7 +5,7 @@
 =-=-= Details =-=-=
 
 Digimon World 2 Alternative aims to be a new Digimon World 2 experience for both seasoned veterans
-of the game, as well as newer players! 
+of the game, as well as newer players!
 
 =-=-= Changes & Features =-=-=
 
@@ -40,7 +40,25 @@ This mod is not compatible with any other Digimon World 2 mods except the Digimo
 
 =-=-= Changelog =-=-=
 
-V1.0 - Initial release
+v4.3 - Fixed two more infinite loop softlocks. Fixed a broken dialogue in Coloseum.
+
+v4.2 - Fixed more scripting errors. Fixed another domain layout that contained an error.
+
+v4.1 - Fixed some scripting errors that caused an infinite loop softlock.
+
+v4 - Fixed more Digimon attack errors. Added missing dialogue portraits. Fixed trade center error.
+
+v3.2 - Fixed some Domain layout issues. Fixed mistakes with some Digimon attacks.
+
+v3.1 - Fixed a DNA table error. Fixed a Gold Hawk dialogue error. Fixed a potential softlock with Kim's dialogue.
+
+v3 - Fixed another Blue Falcon dialogue error. Fixed a map layout issue. Fixed a major bug regarding battle calculations.
+
+v2.1 - Fixed an annoying bug for Blue Falcons post-Device Dome.
+
+v2 - Fixed a typo. Fixed some mistakes.
+
+v1 - Initial release
 
 =-=-= Extras =-=-=
 
